@@ -5,3 +5,4 @@ However, it does not support calculation of Helmoltz energy.
 Though entropy times temperature can be used instead in many occasions, we just want to make it more rigorous.
 Here is a modification to the thermodynamic function of DoSPT. 
 Just copy this thermodynamics.f90 to the src directory and then compile it following the DoSPT guide, nothing special to do.
+Don't forget to cite DoSPT, J. Chem. Theory Comput. 13, 3432 (2017), J. Chem. Phys. 145, 244504 (2016)
